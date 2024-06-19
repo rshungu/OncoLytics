@@ -15,8 +15,8 @@ In this repository, you will find detailed files and documentation for each proj
 
 The repository is organized into various folders, each representing a different project. Each folder contains:
 
-  - Data files (if applicable)
-  - Jupyter notebooks or R scripts used for analysis
-  - Documentation and reports
-  - Visualizations
-  - R markdowns (as output)
+    - Data files (if applicable)
+    - Jupyter notebooks or R scripts used for analysis
+    - Documentation and reports
+    - Visualizations
+    - R markdowns (as output)
