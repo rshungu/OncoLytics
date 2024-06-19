@@ -10,17 +10,7 @@ This `Projects` folder includes:
 - **Data Files**: Datasets used for the analyses.
 - **Scripts**: Code scripts for data processing, analysis, and visualization.
 - **Results**: Outputs and findings from the analyses, including visualizations and reports.
-
-## Structure
-
-The structure of the `Projects` folder is organized as follows:
-
-
-- **Project1/**: Directory for the first project.
-  - **data/**: Contains datasets used in the project.
-  - **scripts/**: Contains code scripts for analysis and visualization.
-  - **results/**: Contains results, including visualizations, summary reports, and findings.
-  - **README.md**: Provides an overview of the project's objectives, methods, and key findings.
+- **README.md**: Provides an overview of the project's objectives, methods, and key findings.
 
 ## How to Navigate
 
